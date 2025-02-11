@@ -9,4 +9,7 @@ for /l %%i in (1,1,20) do (
     timeout /t 1 >nul
 )
 
+
+msg * "ERROR: El sistema ha encontrado un problema grave. Reiniciando..."
+msg * "ERROR: El sistema ha encontrado un problema grave. Reiniciando..."
 msg * "ERROR: El sistema ha encontrado un problema grave. Reiniciando..."
