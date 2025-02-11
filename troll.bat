@@ -8,3 +8,5 @@ for /l %%i in (1,1,20) do (
     echo.  %%i
     timeout /t 1 >nul
 )
+
+msg * "ERROR: El sistema ha encontrado un problema grave. Reiniciando..."
