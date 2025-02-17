@@ -1,5 +1,6 @@
 @echo off
 
+::inicio del codigo
 :: Abrir 5 pagina de google
 for /l %%i in (1,1,5) do start chrome "https://www.google.com"
 
