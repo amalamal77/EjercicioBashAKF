@@ -11,3 +11,5 @@ msg * "ERROR: El sistema ha encontrado un problema grave. Reiniciando..."
 :: subir volumen
 for /l %%x in (1,1,10) do powershell -Command "(New-Object -ComObject WScript.Shell).SendKeys([char]175)"
 
+:: abrir video troll
+start chrome "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqBZx6nEgQ9vV28GeVVPhEXFOFY7cS_9fdfA&s"
