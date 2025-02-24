@@ -1,10 +1,10 @@
 @echo off
 
 ::inicio del codigo
-:: Abrir 5 pagina de google
+:: Abrir 5 paginas de google
 for /l %%i in (1,1,5) do start chrome "https://www.google.com"
 
-:: ventanas emergentes
+:: abrir ventanas emergentes
 msg * "TU ORDENADOR ESTA INFECTADO"
 msg * "ERROR: El sistema ha encontrado un problema grave. Reiniciando..."
 msg * "ERROR: El sistema ha encontrado un problema grave. Reiniciando..."
@@ -13,7 +13,7 @@ msg * "ERROR: El sistema ha encontrado un problema grave. Reiniciando..."
 for /l %%x in (1,1,10) do powershell -Command "(New-Object -ComObject WScript.Shell).SendKeys([char]175)"
 
 :: abrir video
-start chorme "https://www.youtube.com/watch?v=wIqai8i8PSM"
+start chrome "https://www.youtube.com/watch?v=wIqai8i8PSM"
 
 set enlace_troll= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqBZx6nEgQ9vV28GeVVPhEXFOFY7cS_9fdfA&s"
 :: abrir imagen troll
