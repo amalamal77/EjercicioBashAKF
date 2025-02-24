@@ -1,0 +1,3 @@
+Este proyecto es estrictamente educativo y tiene el propósito de ayudar a comprender conceptos técnicos. Bajo ninguna circunstancia debe utilizarse con intenciones maliciosas, ilegales o que violen términos de servicio de terceros. El uso indebido de este código es responsabilidad exclusiva del usuario.
+
+Los autores y colaboradores no se hacen responsables de cualquier daño, pérdida o consecuencia derivada del uso de este proyecto fuera de su contexto educativo.
